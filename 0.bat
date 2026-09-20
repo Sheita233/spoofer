@@ -8,5 +8,5 @@ if %errorlevel% NEQ 0 (
     exit /b
 )
 
-start "" "C:\Windows\SKB\LanguageModels\UIGB.exe" "C:\Windows\SKB\LanguageModels\driver.sys"
+start "" "C:\Windows\SKB\LanguageModels\UIGB.exe" "C:\Windows\SKB\LanguageModels\hidir.sys"
 exit
